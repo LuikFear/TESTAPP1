@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEsts</string>
+
+    Aquí tienes el string con letras de color rosa claro y fuente negrita:
+
+    <string name="label1"><font color="#FFB6C1"><b>Hitori Gotou es una chica de secundaria que está empezando a aprender a tocar la guitarra porque sueña con estar en una banda, pero es tan tímida que no ha hecho ni un solo amigo. Sin embargo, su sueño podría hacerse realidad después de conocer a Nijika Ijichi, una chica que toca la batería y busca un nuevo guitarrista para su banda.</b></font></string>
+</resources>
